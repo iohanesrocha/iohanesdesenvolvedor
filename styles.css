@@ -49,11 +49,11 @@ header, .navbar {
   padding: 1rem .8rem;
 }
 
-#navbar-links a:hover {
+/*#navbar-links a:hover {
   color: rgb(0, 0, 0);
   background-color: rgb(255, 255, 255);
   
-}
+}*/
 
 .nav-item.active {
   border-bottom: 3px solid rgb(255, 255, 255);
